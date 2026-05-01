@@ -1,0 +1,33 @@
+{
+  "name": "create-iris-pipeline",
+  "version": "1.0.0",
+  "description": "Scaffold the 7-agent AI development pipeline (IRIS → SAGE → ATLAS → FORGE → SENTINEL → CONDUCTOR → GUARDIAN) into any Claude Code project with a single npx command.",
+  "keywords": [
+    "claude",
+    "claude-code",
+    "ai-agents",
+    "pipeline",
+    "scaffold",
+    "iris",
+    "create"
+  ],
+  "author": "Greenshades",
+  "license": "MIT",
+  "main": "bin/cli.js",
+  "bin": {
+    "create-iris-pipeline": "./bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "CLAUDE.md",
+    "progress.md",
+    ".claude"
+  ],
+  "engines": {
+    "node": ">=16.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msaleem-AI-dev/agents-pipeline-iris.git"
+  }
+}
