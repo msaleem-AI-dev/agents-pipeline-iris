@@ -1,15 +1,19 @@
 {
   "name": "create-iris-pipeline",
-  "version": "1.0.0",
-  "description": "Scaffold the 7-agent AI development pipeline (IRIS → SAGE → ATLAS → FORGE → SENTINEL → CONDUCTOR → GUARDIAN) into any Claude Code project with a single npx command.",
+  "version": "2.0.0",
+  "description": "Scaffold the AIDLC 10/10 AI development pipeline (9 agent groups · 52 sub-agents) into any Claude Code project with a single npx command. Covers requirements, architecture, knowledge, build, QA, security, deployment, monitoring, and MLOps.",
   "keywords": [
     "claude",
     "claude-code",
     "ai-agents",
     "pipeline",
     "scaffold",
+    "aidlc",
     "iris",
-    "create"
+    "create",
+    "mlops",
+    "qa",
+    "devsecops"
   ],
   "author": "Greenshades",
   "license": "MIT",
